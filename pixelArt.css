@@ -1,0 +1,38 @@
+.mainDiv{
+
+    height : 85%
+
+}
+
+.pixel{
+
+    height: 10px;
+    width: 10px;
+    border: 1px solid gray;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+}
+
+.colorSelectorDiv{
+
+    height:50px;
+    width:50px;
+    margin: 5px;
+    border:1px solid;
+
+}
+.colorContainer{
+    /*border:1px solid;*/
+    flex-direction: row;
+    display: flex;
+
+}
+.brushColorContainer{
+    height:50px;
+    width:50px;
+    border:1px solid;
+
+}
